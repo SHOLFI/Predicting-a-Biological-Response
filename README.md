@@ -1,16 +1,16 @@
-# Predicting a Biological Response
-Building as good a model as possible
+# Прогнозирование биологической реакции
+Построение максимально эффективной модели
 
-Business objective: to determine the characteristics by which it is possible to identify customers who are more inclined to open a bank deposit, and thereby increase the effectiveness of the marketing campaign.
+Бизнес-цель: определить характеристики, по которым можно идентифицировать клиентов, более склонных к открытию банковского вклада, и тем самым повысить эффективность маркетинговой кампании.
 
-Technical task: to build a machine learning model that, based on the proposed characteristics of the client, will predict whether he will take advantage of the offer to open a deposit or not.
+Техническая задача: построить модель машинного обучения, которая на основе предложенных характеристик клиента будет прогнозировать, воспользуется ли он предложением открыть депозит или нет.
 
-The project consists of five parts:
-1. Primary data processing
-2. Intelligence Data Analysis (EDA)
-3. Selection and transformation of features
-4. Solving the classification problem: logistic regression and decision trees
-5. Solving the classification problem: model ensembles and forecasting
+Проект состоит из пяти частей:
+1. Первичная обработка данных
+2. Интеллектуальный анализ данных (EDA)
+3. Выбор и преобразование признаков
+4. Решение задачи классификации: логистическая регрессия и деревья решений
+5. Решение задачи классификации: ансамбли моделей и прогнозирование
 
 
-### Link to competition on Kaggle, which I was solving in this project: [Predicting a Biological Response](https://www.kaggle.com/competitions/bioresponse)
+### Ссылка на конкурс на Kaggle, который я решал в этом проекте: [Прогнозирование биологической реакции](https://www.kaggle.com/competitions/bioresponse)
